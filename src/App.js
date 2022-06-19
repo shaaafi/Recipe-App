@@ -6,6 +6,7 @@ export default function App() {
     <div>
       <h1>Hello StackBlitz!</h1>
       <p>Start editing to see some magic happen :)</p>
+      <h3>Trying a recepe app on react with StAcKBliTz</h3>
     </div>
   );
 }
